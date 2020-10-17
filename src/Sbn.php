@@ -1,6 +1,6 @@
 <?php
 
-namespace Qiblat\Sbn;
+namespace Abdmandhan\Sbn;
 
 class Sbn
 {
