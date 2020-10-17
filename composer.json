@@ -1,0 +1,19 @@
+{
+    "name": "abdmandhan/sbn",
+    "description": "Qiblat SBN",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdurrahman Ramadhan",
+            "email": "abdmandhan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Abdmandhan\\Sbn\\": "src/"
+        }
+    }
+}
